@@ -109,6 +109,27 @@
         "quirky"
       ],
       "id": "10"
+    },
+    {
+      "name": "Sparky",
+      "species": "Doggo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy",
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Brea",
+      "species": "Human",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
